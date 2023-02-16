@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉` //මම වැඩ බන් 😉 (මොකක්ද ඕන උදව්ව 😏 `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,11 +29,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94772821316'] // owner number
+global.ownername = "😎GAYAN❯❯" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.socialm = "GitHub: gayanwp" // github or insta name
+global.location = "" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,16 +47,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94772821316']
+global.ownertag = '+94762922776' //your tag number
+global.botname = 'GAYAN╺ BOT - MD' //ur bot name
+global.packname = "🙈pissek😉" // sticker packname
+global.author = "GAYAN╺ BOT" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94762922776'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -309,6 +309,7 @@ global.rep = { // All Replies = 145
     K145: '🫡🫠🤝',
     K146: '🎤දහසක් මල්🌸 විකසිත වන😊 මේ හිමිදිරි උදෑසනේ🌄 පතන්නම් ඔබ සැමට🙏 සුභම සුභ උදෑසනක් කියා...😃',
     K147: 'ලබන්නාවූ රාත්‍රිය හීනෙන් හොල්මන් පෙනෙන, මහ රෑ දාඩියෙන් තෙමී ඇහැරෙන, පෙරේතයන් ඇද යටට එන, කුම්භාණ්ඩයින් ජනෙල් වලින් එබී බලන, භයානක රාත්‍රියක් වේවා😂👻👻❤️'
+    K148: 'ඔව් මම ගයාන් 😉😏
     }
 
 
