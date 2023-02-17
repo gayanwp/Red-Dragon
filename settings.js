@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //මම වැඩ බන් 😉 (මොකක්ද ඕන උදව්ව 😏 `` )
+global.alivemsg = `📤I am alive now මම වැඩ බන්😇
+🤷‍♀️How can help you?😉මොකක්ද ඕන උදව්ව` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -33,10 +33,10 @@ global.vcardowner = ['+94772821316'] // owner number
 global.ownername = "😎GAYAN❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: gayanwp" // github or insta name
-global.location = "" // location
+global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/X5gm3DP/cbb0b0f5051e.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -50,13 +50,13 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 global.owner = ['+94772821316']
 global.ownertag = '+94762922776' //your tag number
 global.botname = 'GAYAN╺ BOT - MD' //ur bot name
-global.packname = "🙈pissek😉" // sticker packname
+global.packname = "PisseK" // sticker packname
 global.author = "GAYAN╺ BOT" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ gayan-bot-md ]' //
+global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+94762922776'] //ur premium numbers
+global.premium = ['+94772821316'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -309,7 +309,6 @@ global.rep = { // All Replies = 145
     K145: '🫡🫠🤝',
     K146: '🎤දහසක් මල්🌸 විකසිත වන😊 මේ හිමිදිරි උදෑසනේ🌄 පතන්නම් ඔබ සැමට🙏 සුභම සුභ උදෑසනක් කියා...😃',
     K147: 'ලබන්නාවූ රාත්‍රිය හීනෙන් හොල්මන් පෙනෙන, මහ රෑ දාඩියෙන් තෙමී ඇහැරෙන, පෙරේතයන් ඇද යටට එන, කුම්භාණ්ඩයින් ජනෙල් වලින් එබී බලන, භයානක රාත්‍රියක් වේවා😂👻👻❤️'
-    K148: 'ඔව් මම ගයාන් 😉😏
     }
 
 
